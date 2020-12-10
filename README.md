@@ -1,3 +1,8 @@
+# Class Description
+## DSC 500 Data Science Capstone
+This fourth‐year course requires students to formulate and solve a significant data analytics problem in a domain other than data science, computer science, or mathematics. The course brings together students’ studies in data science and involves proposing a problem, developing an analytics plan, performing exploratory data analysis, preparing data for model building, modeling the data using appropriate data analytics tools, and analyzing and presenting results. Throughout the semester, students will work with a domain advisor with expertise in the problem area, as well as with the capstone instructor, who will help shepherd projects to completion and guide students to present their work effectively. The project will culminate in a final paper, oral presentation, and poster presentation. Guest speakers may be arranged to present on a variety of topics.
+
+
 # DSC-500-Final-Project
 
 # Project Description 
